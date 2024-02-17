@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "271471864517",
+    "project_id": "movie-maven-db",
+    "storage_bucket": "movie-maven-db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271471864517:android:4ee2ed3654745156a79eac",
+        "android_client_info": {
+          "package_name": "com.lynxsumit.MovieMania"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "271471864517-4bs0hm2aqd7m2ha36hdmq6gn4nn3enl2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lynxsumit.MovieMania",
+            "certificate_hash": "413f9f3166ac642f86fcdef31e07abb04b6aee3f"
+          }
+        },
+        {
+          "client_id": "271471864517-md91inutoks7a6ntgvrnf0urlsk51ujb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lynxsumit.MovieMania",
+            "certificate_hash": "c725fc994e831b67d0b90df12752b5bc9b5124b9"
+          }
+        },
+        {
+          "client_id": "271471864517-e46ndatn1e0t4l602fq4pnpvqbrjfsks.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbeyWvjulCEnpeQlRgofhxbch_6C0lmg4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "271471864517-9qf0rb7tkcl6mjbinkelpo6lhq37m4on.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

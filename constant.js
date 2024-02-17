@@ -1,0 +1,1 @@
+export const  API_SECRET = "2b2bf8fb0f5441e362ee41eb6218bbd9" 
